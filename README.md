@@ -1,4 +1,9 @@
+# Клон https://github.com/Lofanmi/pinyin-golang
+
+# Нужен для dde-daemon-5.13.6 https://github.com/linuxbuh/linuxbuh-deepin/tree/main/dde-base/dde-daemon
+
 # pinyin-golang
+
 
 [![Build Status](https://travis-ci.org/Lofanmi/pinyin-golang.svg)](https://travis-ci.org/Lofanmi/pinyin-golang)
 [![codecov](https://codecov.io/gh/Lofanmi/pinyin-golang/branch/master/graph/badge.svg)](https://codecov.io/gh/Lofanmi/pinyin-golang)
